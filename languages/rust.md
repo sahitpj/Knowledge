@@ -2,8 +2,8 @@
 
 ### What I already know 
 
-* How it works
+* How it works, writing simple Programs
   
-### WHat I am learning 
+### What I am learning 
 
-* writing programs and understanding them
+* experiencing writing complex programs and packages
